@@ -20,3 +20,4 @@ for i in range(0, 5):
 	M_sum = M_sum + math.pow(v[i], 2)
 m = np.sqrt(M_sum)
 print(m)
+
